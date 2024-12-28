@@ -1,0 +1,34 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading Styles */
+h1 {
+    text-align: center;
+    color: #4CAF50;
+    margin-top: 50px;
+}
+
+/* Paragraph Styles */
+p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+/* Container Styles */
+.container {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
